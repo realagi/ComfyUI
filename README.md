@@ -1,6 +1,6 @@
 <div align="center">
 
-# ComfyUI
+# ComfyUI (RealAGI Flavored)
 **The most powerful and modular diffusion model GUI and backend.**
 
 
